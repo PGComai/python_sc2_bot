@@ -1,2 +1,5 @@
-# python_sc2_bot
- 
+# Experimenting with Starcraft II bots.
+
+## Bots:
+
+### Boid Marines
